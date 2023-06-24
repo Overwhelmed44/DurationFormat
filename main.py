@@ -1,4 +1,4 @@
-class TimeFormat:
+class DurationFormat:
     """
     Language: Russian
     I hope it works correctly
